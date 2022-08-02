@@ -11,3 +11,4 @@ ChatUser_A: Wow, Streamer you're looking sexy today!
 *Moderator executes a !timeout on User_A for the comment which is a compliment. Not something harmful or toxic. 
 
 I'm using Socket.io with React to build the chatroom. It will have emotes and !commands similar to what Twitch calls NightBot. 
+![Screenshot from 2022-08-01 20-44-27](https://user-images.githubusercontent.com/41549429/182274059-d70c5b4e-9904-4191-a730-b4157f6ff277.png)
