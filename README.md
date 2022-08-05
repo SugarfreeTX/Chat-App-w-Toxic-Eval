@@ -1,4 +1,4 @@
-# React-Chat-App
+# React-Chat-App-w/Toxic-Evaluator
 
 A chat application similar to Twitch.tv where messages will be sent to TensorFlow's Fairness/Toxic Evaluation model. (Here is the model: https://github.com/tensorflow/tfjs-models/tree/master/toxicity)
 
